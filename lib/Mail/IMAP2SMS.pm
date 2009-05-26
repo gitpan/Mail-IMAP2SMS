@@ -8,7 +8,7 @@ use Email::Simple;
 use Mail::Sendmail;
 
 use vars qw[$VERSION];
-$VERSION = $1 if('$Id: IMAP2SMS.pm,v 1.10 2009/05/21 14:49:36 rcrowder Exp $' =~ /,v ([\d_.]+) /);
+$VERSION = $1 if('$Id: IMAP2SMS.pm,v 1.2 2009/05/21 14:49:36 rcrowder Exp $' =~ /,v ([\d_.]+) /);
 
 =head1 NAME
 
